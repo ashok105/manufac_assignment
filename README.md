@@ -1,3 +1,5 @@
+![scatterPlot](https://user-images.githubusercontent.com/87580966/184810393-0a2400b1-6978-42e3-8d9f-e709f71f192b.png)
+![barChart](https://user-images.githubusercontent.com/87580966/184810798-d9b36ca6-b1d4-4242-9087-fb2213ff9fda.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
